@@ -1,1 +1,1 @@
-# WCTD2
+# WCT-DAY2
